@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "829149639187",
+    "project_id": "logrow-6e4ed",
+    "storage_bucket": "logrow-6e4ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829149639187:android:ad2f977c6624706e76c5e6",
+        "android_client_info": {
+          "package_name": "com.logrow.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829149639187-e9e6e9ao8ortclu9e49bhb1ejhrt5jsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJtmCCWpVbsSAI6WzJ25E48tb61UO79JA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829149639187-e9e6e9ao8ortclu9e49bhb1ejhrt5jsq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
